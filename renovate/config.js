@@ -1,4 +1,3 @@
-console.log(process.env.API_KEY_GITHUB);
 const renovateConfig = {
   platform: "github",
   binarySource: "install",
